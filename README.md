@@ -1,4 +1,4 @@
-p2
+P2: Tribbler
 ==
 
 This repository contains the starter code for project 2 (15-440, Fall 2017).
